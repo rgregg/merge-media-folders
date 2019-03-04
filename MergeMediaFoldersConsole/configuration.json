@@ -1,0 +1,30 @@
+﻿{
+  "imageFileExtensions": {
+    "jpg": { "exif":  true },
+    "jpeg": { "exif": true },
+    "png": {},
+    "gif": {},
+    "cr2": {},
+    "tif": { "exif": true },
+    "tiff": { "exif": true },
+    "bmp": {},
+    "crw": {},
+    "nef": {},
+    "pef": {},
+    "heic": {}
+  },
+  "videoFileExtensions": {
+    "mpg": {},
+    "avi": {},
+    "mov": {},
+    "avhc": {},
+    "mp4": {},
+    "wmv": {},
+    "3gp": {},
+    "ogg": {},
+    "flv": {},
+    "hdv": {},
+    "ts": {},
+    "vob": {}
+  }
+}

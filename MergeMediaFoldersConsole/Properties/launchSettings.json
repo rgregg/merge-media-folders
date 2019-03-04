@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MergeMediaFoldersConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "merge -o E:\\Photos -s E:\\Input"
+    }
+  }
+}
